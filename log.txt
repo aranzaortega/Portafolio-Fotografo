@@ -1,0 +1,17 @@
+commit d820e43d4e3c0745c54ec17f976e4c3aa1f5509b
+Author: Aranza <aranzaiortegas@gmail.com>
+Date:   Tue Apr 14 10:46:39 2020 +0200
+
+    Cambio de color en el nav
+
+commit fcbc30cd903ee75c2ad8bc02486d8b7089cd3e7a
+Author: Aranza <aranzaiortegas@gmail.com>
+Date:   Tue Apr 14 10:44:16 2020 +0200
+
+    Agregamos elemento al nav
+
+commit 1cb248ec6a56da344dfcd81996004da35f982539
+Author: Aranza <aranzaiortegas@gmail.com>
+Date:   Tue Apr 14 10:40:39 2020 +0200
+
+    Iniciamos
