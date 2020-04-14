@@ -16,7 +16,7 @@
 }
 
 .maqueta-hijo:nth-child(1) {
-  background: black;
+  background: rgb(68, 68, 68);
   grid-area: header;
   display: flex;
   flex-flow: row wrap;
